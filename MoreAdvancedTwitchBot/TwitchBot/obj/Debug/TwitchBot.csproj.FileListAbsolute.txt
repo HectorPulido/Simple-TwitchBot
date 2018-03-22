@@ -1,0 +1,13 @@
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\bin\Debug\TwitchBot.pdb
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\ASUS\Downloads\TwitchBot\TwitchBot\obj\Debug\TwitchBot.pdb
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\obj\Debug\TwitchBot.pdb
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\ASUS\Downloads\FromGithub\Simple-TwitchBot\MoreAdvancedTwitchBot\TwitchBot\bin\Debug\TwitchBot.pdb
